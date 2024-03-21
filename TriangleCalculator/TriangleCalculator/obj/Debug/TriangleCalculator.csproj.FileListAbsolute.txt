@@ -1,0 +1,8 @@
+C:\Users\gisse\OneDrive\Desktop\CS_3280\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.exe.config
+C:\Users\gisse\OneDrive\Desktop\CS_3280\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.exe
+C:\Users\gisse\OneDrive\Desktop\CS_3280\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.pdb
+C:\Users\gisse\OneDrive\Desktop\CS_3280\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.csproj.AssemblyReference.cache
+C:\Users\gisse\OneDrive\Desktop\CS_3280\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gisse\OneDrive\Desktop\CS_3280\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gisse\OneDrive\Desktop\CS_3280\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.exe
+C:\Users\gisse\OneDrive\Desktop\CS_3280\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.pdb
